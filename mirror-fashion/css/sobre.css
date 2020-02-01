@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lucida Sans Unide","Lucida Grande", sans-serif;
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  background-image: url(../img/sobre-background.jpg);
+  width: 100%;
+  padding: 8px;
+  border-radius:10px;
+  color: red;
+  padding: 10px 20px;
+  text-align: justify;
+}
+h2 {
+  border-bottom: 2px solid #ca19199c;
+  border-top: 5px solid red;
+  color: red;
+  margin-top: 50px;
+  padding-bottom: 20px;
+  
+
+}
+figure {
+  background-color: #e3665b;
+  padding: 16px;
+  border-radius: 4px;
+  box-shadow: 2px 4px 7px;
+}
+img {
+  max-width: 100%;
+}
+figcaption {
+  margin: 20px;
+  font-style: italic;
+  text-align: center;
+  margin-top: 10px;
+  
+}
+p {
+  padding: 0 45px;
+  text-indent: 10px;
+  text-align: justify;
+}
+
+#centro-distribuicao{
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+}
+footer {
+  color: #777777;
+  margin: 30px 0px;
+  padding: 30px 0;
+}
+
+footer img {
+  margin-right: 30px;
+  vertical-align: middle;
+  width: 94px;
+}
+#familiapelho {
+  float: right;
+  margin: 0 0 20px 20px;
+}
+
